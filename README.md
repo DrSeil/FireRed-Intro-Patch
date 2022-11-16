@@ -1,5 +1,8 @@
 # FireRed-Intro-Patch
-Intro skip patch for Firered
+To Download the intro patch click on the releases button at the right of the screen.  Then download just the *.bps file (for example v7_5_community.bps) Use this bps file as the patch.
+
+
+Intro skip patch for Firered 
 
 * Shortens the intro (skips to gender, naming player, naming rival)
 * Talk to mom to skip to the lab
